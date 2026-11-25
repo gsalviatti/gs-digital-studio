@@ -1,0 +1,2 @@
+# GS Digital Studio brand
+Minimalist GS wordmark with cyan dot. Light version on white; dark version on navy. Palette: #0B1220, #2563EB, #06B6D4, #F8FAFC. SVG assets use Arial fallback. Keep clear space around the mark. Tagline: Design with purpose. Build for growth.
